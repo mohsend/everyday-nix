@@ -16,3 +16,5 @@ http://unix.stackexchange.com/
 https://stackoverflow.com/
 http://www.commandlinefu.com/
 
+Read more:
+http://linuxstory.ir/
