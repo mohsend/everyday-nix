@@ -1,6 +1,10 @@
 Resources:
 http://linuxbook.ir
 http://www.memrise.com/course/50252/shell-fu/
+http://www2.le.ac.uk/projects/oer/oers/beyond-distance-research-alliance/bdra-introduction-to-unix
+http://archive.is/BMLaJ#selection-215.0-231.177
+http://www.markdowntutorial.com/
+http://linux.itpro.ir/articles/601/%D8%A2%D9%85%D9%88%D8%B2%D8%B4-%D9%84%DB%8C%D9%86%D9%88%DA%A9%D8%B3-%D8%B3%D8%B7%D8%AD-%D9%85%D9%82%D8%AF%D9%85%D8%A7%D8%AA%DB%8C-%D9%82%D8%B3%D9%85%D8%AA-%D8%A7%D9%88%D9%84-%E2%80%93-%D9%85%D8%B9%D8%B1%D9%81%DB%8C-%D9%84%DB%8C%D9%86%D9%88%DA%A9%D8%B3
 
 Refrences:
 http://www.cheatsheets.org/
@@ -10,6 +14,12 @@ http://www.circ.rochester.edu/Teaching/Unix/unixintro.html
 http://mally.stanford.edu/~sr/computing/basic-unix.html
 http://www.math.utah.edu/lab/unix/unix-commands.html#wc
 https://progit.org/
+https://github.com/git-tips/tips
+http://diveintohtml5.info/
+http://www.diveintopython.net/
+http://marksheet.io/
+http://pages.uoregon.edu/moursund/Books/CollegeStudent/CollegeStudent.html
+https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 
 Tools????:
 http://unix.stackexchange.com/
