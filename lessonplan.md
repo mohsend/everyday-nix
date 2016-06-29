@@ -1,6 +1,6 @@
 # Practical *nix
 # *nix literacy
-# Quick start using *nix
+# Quick start *nix
 # Everyday *nix
 
 It's all about effectivly using available tools.
@@ -19,22 +19,21 @@ It's all about effectivly using available tools.
 ### Ther Terminal
 ### Anathomy of a command
 ## Shell essensials
-### Files: pwd, ls (-lahR), cd, mv, cp
+### Files: pwd, ls (-lahR), cd, mv, cp, touch
 ### File naming conventions
+### man is your man
 ### Direct in/output, pipe
 #### standard in/out
 #### echo, cat, head, tail, wc
 ### grep and Regex
 ## Terminal visual programs
 ### htop
-### Nano and Vim
 ### less
-### Midnight commander
-### Music on console
-### man is your man
+### Nano and Vim
+### Midnight commander, Music on console
 ## your environment
-### .bashrc .bash_aliases
 ### $ENV_VARIABES 
+### .bashrc .bash_aliases
 ### Package managers concept and apt
 ## Google to the rescue!
 ### Program alternatives
@@ -42,6 +41,8 @@ It's all about effectivly using available tools.
 ### Markup languages
 #### HTML
 #### Markdown
+#### LaTex, xePersian
+## Algorithms and flowcharts
 ## Let's script
 ### Shell (Bash)
 #### dialog
@@ -52,14 +53,20 @@ It's all about effectivly using available tools.
 ### PHP
 ### And then some
 ### Conventions and best practices
-## ssh, encryption and keys
-## git ready to take control
+## ssh, encryption, and keys
+## git ready to version control
 ### What is a VCS?
 ### Basic local git
 ### github for community
-### github pages and jekyll
+### Using open code
+### github pages
+#### Jekyll
+#### DNS and more with Cloudflare
+#### Mail with zoho
 ## Lots of package managers out there
 ## Build from source
+### Dependency
+### make, configure, build
 ### Practice build: keepassx2, ruby
 ## Maintaining a healthy machine
 ### Back it up before you lose it
